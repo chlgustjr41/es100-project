@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/static/js/main.01388da8.js",
+    "static/media/Street_Spring_Day.png": "/static/media/Street_Spring_Day.d614998882aaaf6c4803.png",
+    "static/media/Climate_Change.png": "/static/media/Climate_Change.75d22c4862613d46d25a.png",
+    "static/media/Classroom_Day.png": "/static/media/Classroom_Day.403d8ef309ad2b6f4d87.png",
+    "static/media/Kitchen_Day.png": "/static/media/Kitchen_Day.fd51c2a78fa7e072722d.png",
+    "static/media/Bedroom_Day.png": "/static/media/Bedroom_Day.4170751d822989fcca1d.png",
+    "static/media/Apartment_Exterior.png": "/static/media/Apartment_Exterior.1624c22401690b353a42.png",
+    "static/media/Livingroom_Day.png": "/static/media/Livingroom_Day.20c90553ccc849770da1.png",
+    "static/media/Cafeteria_Day.png": "/static/media/Cafeteria_Day.c6cde243f2784ae74c98.png",
+    "static/media/Green_Earth.jpg": "/static/media/Green_Earth.471011ef98749d8acece.jpg",
+    "static/media/Ozone_Depletion.jpg": "/static/media/Ozone_Depletion.e788c86e37d6a18d0800.jpg",
+    "static/media/Burning_Sun.jpg": "/static/media/Burning_Sun.5cd372abd3087c877f54.jpg",
+    "static/media/hchoi26_pfp.jpg": "/static/media/hchoi26_pfp.566e6529bb1c89db28de.jpg",
+    "static/media/Ozone_Hole.jpg": "/static/media/Ozone_Hole.d707fa4d6290abd7a14a.jpg",
+    "index.html": "/index.html",
+    "main.01388da8.js.map": "/static/js/main.01388da8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.01388da8.js"
+  ]
+}
